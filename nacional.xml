@@ -2,14 +2,14 @@
 
 <item>
 <title>tve1</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8</urlsolve>
+<urlsolve>http://95.122.50.234:4022//udp/239.0.0.185:8208</urlsolve>
 <thumbnail>http://photocall.tv/images/LA1.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>tve2</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8</urlsolve>
+<urlsolve>http://95.122.50.234:4022//udp/239.0.0.2:8208</urlsolve>
 <thumbnailhttp://photocall.tv/images/LA2.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
@@ -83,5 +83,27 @@
 <thumbnail>http://photocall.tv/images/DCH.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
+
+<item>
+<title>Live tv</title>        
+<urlsolve>http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/lifetv.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Intereconomía</title>        
+<urlsolve>http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/intereconomia.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Intereconomía</title>        
+<urlsolve>http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/intereconomia.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
 
 
