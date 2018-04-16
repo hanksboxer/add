@@ -43,8 +43,15 @@
 </item>
 
 <item>
-<title>Antena 3</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/SEXTA.png</thumbnail>
+<title>Neox</title>        
+<urlsolve>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/NEOX.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Nova</title>        
+<urlsolve>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/NOVA.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
