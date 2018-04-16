@@ -30,7 +30,7 @@
 
 <item>
 <title>Telecinco</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8</urlsolve>
+<urlsolve>telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8</urlsolve>
 <thumbnail>http:/</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
