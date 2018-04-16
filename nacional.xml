@@ -3,14 +3,14 @@
 <item>
 <title>tve1</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8</urlsolve>
-<thumbnail>http:/</thumbnail>
+<thumbnail>http://photocall.tv/images/LA1.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>tve2</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8</urlsolve>
-<thumbnail>http:/</thumbnail>
+<thumbnailhttp://photocall.tv/images/LA2.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
@@ -23,21 +23,21 @@
 
 <item>
 <title>Cuatro</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8</urlsolve>
-<thumbnail>http:/</thumbnail>
+<urlsolve>http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/C4.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Telecinco</title>        
-<urlsolve>telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8</urlsolve>
-<thumbnail>http:/</thumbnail>
+<urlsolve>http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/T5.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>La Sexta</title>        
-<urlsolve>http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8</urlsolve>
+<urlsolve>http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8</urlsolve>
 <thumbnail>http:/</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
@@ -45,6 +45,6 @@
 <item>
 <title>Antena 3</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8</urlsolve>
-<thumbnail>http:/</thumbnail>
+<thumbnail>http://photocall.tv/images/SEXTA.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
