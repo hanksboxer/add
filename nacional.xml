@@ -71,6 +71,13 @@
 </item>
 
 <item>
+<title>FDF</title>        
+<urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/FDFIC.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
 <title>Paramount</title>        
 <urlsolve>http://paramount.live.flumotion.com/live/playlist.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/PARCH.png</thumbnail>
