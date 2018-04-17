@@ -4,7 +4,7 @@
 <title>NACIONAL</title>
 <thumbnail>https://cdn.pixabay.com/photo/2016/07/17/18/59/spain-1524515_960_720.png</thumbnail>
 <fanart></fanart>
-<thumbnail>http://www.mulierchile.com/spain-flag-wallpapers/spain-flag-wallpapers-013.jpg</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <link>https://raw.githubusercontent.com/hanksboxer/add/master/nacional.xml</link>
 <externallink>https://raw.githubusercontent.com/hanksboxer/add/master/nacional.xml</externallink>
@@ -12,15 +12,15 @@
  
 <item>
 <title>AUTONOMICAS</title>
-<thumbnail></thumbnail>
+<thumbnail>http://www.forta.es/Portals/0/images/Forta.png</thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
+<link>https://raw.githubusercontent.com/hanksboxer/add/master/autonomicas.xml</link>
+<externallink>https://raw.githubusercontent.com/hanksboxer/add/master/autonomicas.xml</externallink>
 </item>
  
 <item>
 <title>LOCALES</title>
-<thumbnail></thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
