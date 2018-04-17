@@ -1,9 +1,79 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>LA 1 </title>        
-<urlsolve>http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/LA1.png</thumbnail>
+<title>Canal Sur</title>        
+<urlsolve>https://youtu.be/r9xfnjcGgis</urlsolve>
+<thumbnail>http://2.bp.blogspot.com/-NITi7-igJq4/VOjEKqSsGQI/AAAAAAAAs68/hTNeieFasd0/s1600/logo-Andalucia-Television.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Canal Sur</title>        
+<urlsolve>http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live.m3u8</urlsolve>
+<thumbnail>http://2.bp.blogspot.com/-NITi7-igJq4/VOjEKqSsGQI/AAAAAAAAs68/hTNeieFasd0/s1600/logo-Andalucia-Television.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Canal Sur Cocina</title>        
+<urlsolve>http://173.212.214.184:1935/cscocina/cscocina/.m3u8</urlsolve>
+<thumbnail>https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Canal Sur Flamenco</title>        
+<urlsolve>http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8</urlsolve>
+<thumbnail>https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Canal Sur La Banda</title>        
+<urlsolve>http://cast.streamingconnect.com:1935/cslabanda/cslabanda/.m3u8</urlsolve>
+<thumbnail>https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-La-Banda.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Canal Sur Turismo</title>        
+<urlsolve>http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8</urlsolve>
+<thumbnail>https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/CANAL-SUR-TURISMO.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Telemadrid</title>        
+<urlsolve>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/telemadrid.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>La Otra</title>        
+<urlsolve>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/laotra.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>RTV Canaria</title>        
+<urlsolve>http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/rtvc.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Aragón TV</title>        
+<urlsolve>http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8</urlsolve>
+<thumbnail>http://3.bp.blogspot.com/-KNF-CCldUew/UlCjjawS25I/AAAAAAAABVw/rdMIvRvFgyg/s1600/aragon_tv.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Castilla La Mancha Media</title>        
+<urlsolve>http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8</urlsolve>
+<thumbnailhttp://photocall.tv/images/rtvcm.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
