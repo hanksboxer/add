@@ -73,7 +73,14 @@
 <item>
 <title>Castilla La Mancha Media</title>        
 <urlsolve>http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8</urlsolve>
-<thumbnailhttp://photocall.tv/images/rtvcm.png</thumbnail>
+<thumbnail>http://photocall.tv/images/rtvcm.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Canal Extremadura</title>        
+<urlsolve>http://hlstv.canalextremadura.es/livetv/multistream.smil/.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/canalextremadura.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
