@@ -2,14 +2,14 @@
 
 <item>
 <title>tve1</title>        
-<urlsolve>http://95.122.50.234:4022//udp/239.0.0.185:8208</urlsolve>
+<urlsolve>http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/LA1.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>tve2</title>        
-<urlsolve>http://95.122.50.234:4022//udp/239.0.0.2:8208</urlsolve>
+<urlsolve>http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_0400_av-p.m3u8</urlsolve>
 <thumbnailhttp://photocall.tv/images/LA2.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
@@ -78,6 +78,27 @@
 </item>
 
 <item>
+<title>Divinity</title>        
+<urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/DIVINI.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Be Mad</title>        
+<urlsolve>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/BEMAD.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Trece</title>        
+<urlsolve>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/13.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
 <title>Paramount</title>        
 <urlsolve>http://paramount.live.flumotion.com/live/playlist.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/PARCH.png</thumbnail>
@@ -106,9 +127,17 @@
 </item>
 
 <item>
-<title>Intereconomía</title>        
-<urlsolve>http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/intereconomia.png</thumbnail>
+<title>24h</title>        
+<urlsolve>http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/24H.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+
+<item>
+<title>Teledeporte</title>        
+<urlsolve>hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/24H.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
