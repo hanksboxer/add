@@ -84,3 +84,38 @@
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
+<item>
+<title>RTV Castilla y León</title>        
+<urlsolve>http://nws.nice264.com/ilive/cyl/cyl_aaf8301a8e99d2acb611ceca62441ec5/.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/cyltv.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>RTV Murcia</title>        
+<urlsolve>rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/7rm.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>RTP Asturias</title>        
+<urlsolve>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone-multi/main.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/rtpa.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>TV Galicia</title>        
+<urlsolve>http://europa-crtvg.flumotion.com/playlist.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/tvg.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>A punt</title>        
+<urlsolve>http://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/81ZndpZTE6V1PrThLnnvJN6hGu1RgM_c/cs/e7e684f48f9c4a76ae6edf3833933aa2.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/apunt.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
