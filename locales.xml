@@ -1,1 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>Sevilla FC TV</title>        
+<urlsolve>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/sevillafc.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Onda Cadiz</title>        
+<urlsolve>http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/ondacadiz.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Onda Luz Sevilla</title>        
+<urlsolve>http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/playlist.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/ondaluz.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+  
+ <item>
+<title>Onda Luz Cadiz</title>        
+<urlsolve>http://cls.elitehd-audiovisuales.com/olcadiz/livestream1/master.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/ondaluz.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
