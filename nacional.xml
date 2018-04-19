@@ -10,7 +10,7 @@
 <item>
 <title>tve2</title>        
 <urlsolve>http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_0400_av-p.m3u8</urlsolve>
-<thumbnailhttp://photocall.tv/images/LA2.png</thumbnail>
+<thumbnail>http://photocall.tv/images/LA2.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
@@ -107,7 +107,7 @@
 
 <item>
 <title>Disney Channel</title>        
-<urlsolve>http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/.m3u8</urlsolve>
+<urlsolve>http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/protocol/http/uiConfId/27176231/a.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/DCH.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
@@ -136,10 +136,26 @@
 
 <item>
 <title>Teledeporte</title>        
-<urlsolve>hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/24H.png</thumbnail>
+<urlsolve>http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/TDEP.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
+
+<item>
+<title>Canal Parlamento</title>        
+<urlsolve>http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/parlamento.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Canal Parlamento</title>        
+<urlsolve>http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/parlamento.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+
 
 
 
