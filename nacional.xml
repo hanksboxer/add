@@ -17,7 +17,7 @@
 <item>
 <title>Antena 3</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/A3.png/</thumbnail>
+<thumbnail>http://photocall.tv/images/A3.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -38,7 +38,7 @@
 <item>
 <title>La Sexta</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8</urlsolve>
-<thumbnail>http:/</thumbnail>
+<thumbnail>http://photocall.tv/images/SEXTA.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
@@ -149,13 +149,25 @@
 </item>
 
 <item>
-<title>Canal Parlamento</title>        
-<urlsolve>http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/parlamento.png</thumbnail>
+<title>HispanTV</title>        
+<urlsolve>http://107.189.40.49:1935/live/hispantv/.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/hispantv.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
+<item>
+<title>Primera Network</title>        
+<urlsolve>http://178.132.6.97/A1Espana/index.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/primera.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
 
+<item>
+<title>Primera Network</title>        
+<urlsolve>http://178.132.6.97/A1Espana/index.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/primera.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
 
 
 
