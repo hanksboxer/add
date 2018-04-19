@@ -93,7 +93,7 @@
 
 <item>
 <title>RTV Murcia</title>        
-<urlsolve>rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8</urlsolve>
+<urlsolve>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/7rm.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
@@ -119,3 +119,58 @@
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
+<item>
+<title>TVG</title>        
+<urlsolve>http://europa-crtvg.flumotion.com/playlist.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/tvg.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>ETB</title>        
+<urlsolve>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/eitb.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Ibiza 3</title>        
+<urlsolve>http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/ib3.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>TV3</title>        
+<urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/tv3.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>CANAL 33</title>        
+<urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/33.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>3 24</title>        
+<urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/324.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Super 3</title>        
+<urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</urlsolve>
+<thumbnail>http://statics.ccma.cat/img/logo.super3.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Esport 3</title>        
+<urlsolve>http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/e3.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
