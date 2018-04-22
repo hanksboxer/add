@@ -26,10 +26,18 @@
 <externallink>https://raw.githubusercontent.com/hanksboxer/add/master/locales.xml</externallink>
 </item>
  
- <item>
+<item>
 <title>INTERNACIONALES</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
+</item>
+
+<item>
+<title>OTROS</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>https://raw.githubusercontent.com/hanksboxer/add/master/otros.xml</link>
+<externallink>https://raw.githubusercontent.com/hanksboxer/add/master/otros.xml</externallink>
 </item>
