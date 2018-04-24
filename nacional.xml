@@ -14,6 +14,7 @@
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
+
 <item>
 <title>Antena 3</title>        
 <urlsolve>http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8</urlsolve>
@@ -92,6 +93,13 @@
 </item>
 
 <item>
+<title>Energy</title>        
+<urlsolve>https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8</urlsolve>
+<thumbnail>http://www.televalentin.com/imagenes/logos/ENERGY__19f44e461f.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
 <title>Trece</title>        
 <urlsolve>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/13.png</thumbnail>
@@ -109,6 +117,13 @@
 <title>Disney Channel</title>        
 <urlsolve>http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/protocol/http/uiConfId/27176231/a.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/DCH.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Boing</title>        
+<urlsolve>https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8</urlsolve>
+<thumbnail>http://www.simbajuguetes.com/wp-content/uploads/2017/05/logo-boing.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
