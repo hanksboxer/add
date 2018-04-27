@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>MTV</title>        
+<urlsolve>http://www.ragnaroktv.com/hls_live/kr/MTV_HD/MzYzMTQxMTM1NgAA/mtvhd.m3u8</urlsolve>
+<thumbnail>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1486494802721-Imagen.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MTV LIVE</title>        
+<urlsolve>http://www.ragnaroktv.com/hls_live/kr/MTV_LIVE_HD/MzYzMTQxMTM1NgAA/mtvl1ve.m3u8</urlsolve>
+<thumbnail>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580515540-Imagen.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MTV HITS</title>        
+<urlsolve>http://www.ragnaroktv.com/hls_live/kr/MTV_HITS/MzYzMTQxMTM1NgAA/mtvh.m3u8</urlsolve>
+<thumbnail>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473788338549-Imagen.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>VH1</title>        
+<urlsolve>http://www.ragnaroktv.com/hls_live/kr/VH1_HD/MzYzMTQxMTM1NgAA/vh1hd.m3u8</urlsolve>
+<thumbnail>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580474752-Imagen.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>VH1 CLASSIC</title>        
+<urlsolve>http://www.ragnaroktv.com/hls_live/kr/VH1_CLASSIC/MzYzMTQxMTM1NgAA/vh1class.m3u8</urlsolve>
+<thumbnail>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473872881661-Imagen.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
+
