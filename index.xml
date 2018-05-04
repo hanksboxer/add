@@ -27,14 +27,6 @@
 </item>
  
 <item>
-<title>INTERNACIONALES</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
-
-<item>
 <title>OTROS</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -48,4 +40,12 @@
 <fanart></fanart>
 <link>https://raw.githubusercontent.com/hanksboxer/add/master/musica.xml</link>
 <externallink>https://raw.githubusercontent.com/hanksboxer/add/master/musica.xml</externallink>
+</item>
+
+<item>
+<title>ITALIA</title>
+<thumbnail>http://www.banderasysoportes.es/WebRoot/StoreES3/Shops/ec4701/5262/6C76/AE0C/A277/8A1A/AC10/1417/987C/Italy_m.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
 </item>
