@@ -3,14 +3,14 @@
 <item>
 <title>tve1</title>        
 <urlsolve>http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/LA1.png</thumbnail>
+<thumbnail>http://photocall.tv/images/LA1.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>tve2</title>        
 <urlsolve>http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_0400_av-p.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/LA2.png</thumbnail>
+<thumbnail>http://photocall.tv/images/LA2.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
@@ -18,133 +18,133 @@
 <item>
 <title>Antena 3</title>        
 <urlsolve>https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_4.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/A3.png</thumbnail>
+<thumbnail>http://photocall.tv/images/A3.png?resize=324%2C235</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Cuatro</title>        
 <urlsolve>http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/C4.png</thumbnail>
+<thumbnail>http://photocall.tv/images/C4.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Telecinco</title>        
 <urlsolve>http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/T5.png</thumbnail>
+<thumbnail>http://photocall.tv/images/T5.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>La Sexta</title>        
 <urlsolve>https://atresplayerp-i.akamaized.net/lasextampp/bitrate_4.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/SEXTA.png</thumbnail>
+<thumbnail>http://photocall.tv/images/SEXTA.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Neox</title>        
 <urlsolve>https://atresplayerp-i.akamaized.net/geoneoxmpp/bitrate_4.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/NEOX.png</thumbnail>
+<thumbnail>http://photocall.tv/images/NEOX.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Nova</title>        
 <urlsolve>https://atresplayerp-i.akamaized.net/novampp/bitrate_4.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/NOVA.png</thumbnail>
+<thumbnail>http://photocall.tv/images/NOVA.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Mega</title>        
 <urlsolve>https://atresplayerp-i.akamaized.net/geomegampp/bitrate_4.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/MEGA.png</thumbnail>
+<thumbnail>http://photocall.tv/images/MEGA.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>A3Series</title>        
 <urlsolve>https://atresplayers-i.akamaized.net/a3seriesmpp/bitrate_4.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/ATRESS.png</thumbnail>
+<thumbnail>http://photocall.tv/images/ATRESS.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>FDF</title>        
 <urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/FDFIC.png</thumbnail>
+<thumbnail>http://photocall.tv/images/FDFIC.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Divinity</title>        
 <urlsolve>https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/DIVINI.png</thumbnail>
+<thumbnail>http://photocall.tv/images/DIVINI.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Be Mad</title>        
 <urlsolve>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/BEMAD.png</thumbnail>
+<thumbnail>http://photocall.tv/images/BEMAD.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Energy</title>        
 <urlsolve>https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8</urlsolve>
-<thumbnail>http://www.televalentin.com/imagenes/logos/ENERGY__19f44e461f.png</thumbnail>
+<thumbnail>http://www.televalentin.com/imagenes/logos/ENERGY__19f44e461f.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Trece</title>        
 <urlsolve>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/13.png</thumbnail>
+<thumbnail>http://photocall.tv/images/13.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Paramount</title>        
 <urlsolve>http://paramount.live.flumotion.com/live/playlist.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/PARCH.png</thumbnail>
+<thumbnail>http://photocall.tv/images/PARCH.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Disney Channel</title>        
 <urlsolve>http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/protocol/http/uiConfId/27176231/a.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/DCH.png</thumbnail>
+<thumbnail>http://photocall.tv/images/DCH.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Boing</title>        
 <urlsolve>https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8</urlsolve>
-<thumbnail>http://www.simbajuguetes.com/wp-content/uploads/2017/05/logo-boing.png</thumbnail>
+<thumbnail>http://www.simbajuguetes.com/wp-content/uploads/2017/05/logo-boing.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Live tv</title>        
 <urlsolve>http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/lifetv.png</thumbnail>
+<thumbnail>http://photocall.tv/images/lifetv.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Intereconomía</title>        
 <urlsolve>http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/intereconomia.png</thumbnail>
+<thumbnail>http://photocall.tv/images/intereconomia.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>24h</title>        
 <urlsolve>http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/24H.png</thumbnail>
+<thumbnail>http://photocall.tv/images/24H.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
@@ -152,35 +152,35 @@
 <item>
 <title>Teledeporte</title>        
 <urlsolve>http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/TDEP.png</thumbnail>
+<thumbnail>http://photocall.tv/images/TDEP.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Canal Parlamento</title>        
 <urlsolve>http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/parlamento.png</thumbnail>
+<thumbnail>http://photocall.tv/images/parlamento.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>HispanTV</title>        
 <urlsolve>http://107.189.40.49:1935/live/hispantv/.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/hispantv.png</thumbnail>
+<thumbnail>http://photocall.tv/images/hispantv.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Primera Network</title>        
 <urlsolve>http://178.132.6.97/A1Espana/index.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/primera.png</thumbnail>
+<thumbnail>http://photocall.tv/images/primera.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Primera Network</title>        
 <urlsolve>http://178.132.6.97/A1Espana/index.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/primera.png</thumbnail>
+<thumbnail>http://photocall.tv/images/primera.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
