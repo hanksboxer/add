@@ -3,7 +3,7 @@
 <item>
 <title>Canal Sur</title>        
 <urlsolve>https://youtu.be/r9xfnjcGgis</urlsolve>
-<thumbnail>http://2.bp.blogspot.com/-NITi7-igJq4/VOjEKqSsGQI/AAAAAAAAs68/hTNeieFasd0/s1600/logo-Andalucia-Television.png</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-NITi7-igJq4/VOjEKqSsGQI/AAAAAAAAs68/hTNeieFasd0/s1600/logo-Andalucia-Television.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
@@ -17,7 +17,7 @@
 <item>
 <title>Canal Sur Cocina</title>        
 <urlsolve>http://173.212.214.184:1935/cscocina/cscocina/.m3u8</urlsolve>
-<thumbnail>https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina.png</thumbnail>
+<thumbnail>https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
@@ -31,140 +31,140 @@
 <item>
 <title>Canal Sur La Banda</title>        
 <urlsolve>http://cast.streamingconnect.com:1935/cslabanda/cslabanda/.m3u8</urlsolve>
-<thumbnail>https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-La-Banda.png</thumbnail>
+<thumbnail>https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-La-Banda.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Canal Sur Turismo</title>        
 <urlsolve>http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8</urlsolve>
-<thumbnail>https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/CANAL-SUR-TURISMO.png</thumbnail>
+<thumbnail>https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/CANAL-SUR-TURISMO.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Telemadrid</title>        
 <urlsolve>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/telemadrid.png</thumbnail>
+<thumbnail>http://photocall.tv/images/telemadrid.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>La Otra</title>        
 <urlsolve>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/laotra.png</thumbnail>
+<thumbnail>http://photocall.tv/images/laotra.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>RTV Canaria</title>        
 <urlsolve>http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/rtvc.png</thumbnail>
+<thumbnail>http://photocall.tv/images/rtvc.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Aragón TV</title>        
 <urlsolve>http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8</urlsolve>
-<thumbnail>http://3.bp.blogspot.com/-KNF-CCldUew/UlCjjawS25I/AAAAAAAABVw/rdMIvRvFgyg/s1600/aragon_tv.png</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-KNF-CCldUew/UlCjjawS25I/AAAAAAAABVw/rdMIvRvFgyg/s1600/aragon_tv.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Castilla La Mancha Media</title>        
 <urlsolve>http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/rtvcm.png</thumbnail>
+<thumbnail>http://photocall.tv/images/rtvcm.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Canal Extremadura</title>        
 <urlsolve>http://hlstv.canalextremadura.es/livetv/multistream.smil/.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/canalextremadura.png</thumbnail>
+<thumbnail>http://photocall.tv/images/canalextremadura.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>RTV Castilla y León</title>        
 <urlsolve>http://nws.nice264.com/ilive/cyl/cyl_aaf8301a8e99d2acb611ceca62441ec5/.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/cyltv.png</thumbnail>
+<thumbnail>http://photocall.tv/images/cyltv.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>RTV Murcia</title>        
 <urlsolve>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/7rm.png</thumbnail>
+<thumbnail>http://photocall.tv/images/7rm.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>RTP Asturias</title>        
 <urlsolve>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone-multi/main.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/rtpa.png</thumbnail>
+<thumbnail>http://photocall.tv/images/rtpa.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>TV Galicia</title>        
 <urlsolve>http://europa-crtvg.flumotion.com/playlist.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/tvg.png</thumbnail>
+<thumbnail>http://photocall.tv/images/tvg.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>A punt</title>        
 <urlsolve>http://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/81ZndpZTE6V1PrThLnnvJN6hGu1RgM_c/cs/e7e684f48f9c4a76ae6edf3833933aa2.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/apunt.png</thumbnail>
+<thumbnail>http://photocall.tv/images/apunt.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>TVG</title>        
 <urlsolve>http://europa-crtvg.flumotion.com/playlist.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/tvg.png</thumbnail>
+<thumbnail>http://photocall.tv/images/tvg.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>ETB</title>        
 <urlsolve>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/eitb.png</thumbnail>
+<thumbnail>http://photocall.tv/images/eitb.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Ibiza 3</title>        
 <urlsolve>http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/ib3.png</thumbnail>
+<thumbnail>http://photocall.tv/images/ib3.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>TV3</title>        
 <urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/tv3.png</thumbnail>
+<thumbnail>http://photocall.tv/images/tv3.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>CANAL 33</title>        
 <urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/33.png</thumbnail>
+<thumbnail>http://photocall.tv/images/33.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>3 24</title>        
 <urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/324.png</thumbnail>
+<thumbnail>http://photocall.tv/images/324.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Super 3</title>        
 <urlsolve>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</urlsolve>
-<thumbnail>http://statics.ccma.cat/img/logo.super3.png</thumbnail>
+<thumbnail>http://statics.ccma.cat/img/logo.super3.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
