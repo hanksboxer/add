@@ -2,14 +2,21 @@
 
 <item>
 <title>Canale 5 Mediaset</title>        
-<urlsolve>http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(05)/index.m3u8</urlsolve>
+<urlsolve>http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(03)/index.m3u8</urlsolve>
 <thumbnail>https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/canale-5.png?resize=324%2C235</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
+<title>Rete 4 Mediaset</title>        
+<urlsolve>http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/Stream(03)/index.m3u8</urlsolve>
+<thumbnail>https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/rete-4.png?resize=324%2C235</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>La 5 Mediaset</title>        
-<urlsolve>http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/Stream(01)/index.m3u8</urlsolve>
+<urlsolve>http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/Stream(03)/index.m3u8</urlsolve>
 <thumbnail>https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/la5.png?resize=324%2C235</thumbnail>
 <fanart></fanart>
 </item>
