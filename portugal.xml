@@ -6,3 +6,10 @@
 <thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/1/19/RTP1_Short_2016.svg/revision/latest/scale-to-width-down/640?cb=20160409062526</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>RTP2</title>        
+<urlsolve>http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/chunklist.m3u8</urlsolve>
+<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/d/de/RTP2_Short_2016.svg/revision/latest/scale-to-width-down/640?cb=20160512152338</thumbnail>
+<fanart></fanart>
+</item>
