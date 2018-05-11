@@ -142,6 +142,13 @@
 </item>
 
 <item>
+<title>Libertad Digital</title>        
+<urlsolve>https://stream-03.dc3.dailymotion.com/57/dm/3/xnm032/live-2.m3u8</urlsolve>
+<thumbnail>https://pbs.twimg.com/profile_images/913700935603499008/ifTjXKGZ.jpg</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
 <title>24h</title>        
 <urlsolve>http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/24H.png?resize=324%2C235</thumbnail>
@@ -177,12 +184,7 @@
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
-<item>
-<title>Primera Network</title>        
-<urlsolve>http://178.132.6.97/A1Espana/index.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/primera.png?resize=324%2C235</thumbnail>
-<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
-</item>
+
 
 
 
