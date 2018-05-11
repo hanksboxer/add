@@ -8,6 +8,13 @@
 </item>
 
 <item>
+<title>El Correo TV</title>        
+<urlsolve>http://luztv.cdnstreamserver.com/luztv/stream/chunklist.m3u8</urlsolve>
+<thumbnail>https://pbs.twimg.com/profile_images/537552979633532929/p2RYwEgo_400x400.jpeg</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
 <title>Onda Cadiz</title>        
 <urlsolve>http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/ondacadiz.png</thumbnail>
