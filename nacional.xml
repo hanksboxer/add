@@ -149,6 +149,13 @@
 </item>
 
 <item>
+<title>Dejate de Historias</title>        
+<urlsolve>http://cls.todostreaming.eu/tvstream/webtv/chunklist.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/dh.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
 <title>Intereconomía</title>        
 <urlsolve>http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/intereconomia.png?resize=324%2C235</thumbnail>
