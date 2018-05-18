@@ -36,6 +36,13 @@
 </item>
 
 <item>
+<title>Costa del Sol TV</title>        
+<urlsolve>http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8</urlsolve>
+<thumbnail>https://antenista.webnode.es/_files/200002504-5844f5c19b/costa%20del%20sol%20tv%20abm%20antenista%20en%20malaga.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
 <title>Betis TV</title>        
 <urlsolve>http://rbetis-hls.flumotion.com/rbetis/live/chunks.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/betis.png</thumbnail>
