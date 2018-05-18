@@ -1,36 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Sevilla FC TV</title>        
-<urlsolve>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/sevillafc.png</thumbnail>
-<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
-</item>
-
-<item>
-<title>El Correo TV</title>        
-<urlsolve>http://luztv.cdnstreamserver.com/luztv/stream/chunklist.m3u8</urlsolve>
-<thumbnail>https://pbs.twimg.com/profile_images/537552979633532929/p2RYwEgo_400x400.jpeg</thumbnail>
-<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
-</item>
-
-<item>
-<title>Onda Cadiz</title>        
-<urlsolve>http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/ondacadiz.png</thumbnail>
-<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
-</item>
-
-<item>
-<title>Onda Luz Sevilla</title>        
-<urlsolve>http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/playlist.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/ondaluz.png</thumbnail>
-<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
-</item>
-  
- <item>
-<title>Onda Luz Cadiz</title>        
-<urlsolve>http://cls.elitehd-audiovisuales.com/olcadiz/livestream1/master.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/ondaluz.png</thumbnail>
-<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+<title>ANDALUCIA</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bandera_de_Andalucia.svg/750px-Bandera_de_Andalucia.svg.png</thumbnail>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>https://raw.githubusercontent.com/hanksboxer/add/master/andalucia.xml</link>
+<externallink>https://raw.githubusercontent.com/hanksboxer/add/master/andalucia.xml</externallink>
 </item>
