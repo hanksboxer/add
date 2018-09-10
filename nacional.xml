@@ -86,6 +86,13 @@
 </item>
 
 <item>
+<title>Ten</title>        
+<urlsolve>http://edge3.lacalleochotv.online/live/ten_1/index.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/ten.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
 <title>Be Mad</title>        
 <urlsolve>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/BEMAD.png?resize=324%2C235</thumbnail>
@@ -96,6 +103,13 @@
 <title>Energy</title>        
 <urlsolve>https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8</urlsolve>
 <thumbnail>http://www.televalentin.com/imagenes/logos/ENERGY__19f44e461f.png?resize=324%2C235</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>DKiss</title>        
+<urlsolve>http://edge3.lacalleochotv.online/live/DKISS_1/index.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/dkiss.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
