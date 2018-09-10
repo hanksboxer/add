@@ -17,7 +17,7 @@
 
 <item>
 <title>Antena 3</title>        
-<urlsolve>https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_4.m3u8</urlsolve>
+<urlsolve>http://s742319618.mialojamiento.es/cl3?vid=livepull1.secure.footprint.net/antena3mpp/master.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/A3.png?resize=324%2C235</thumbnail>
 <fanart></fanart>
 </item>
@@ -38,35 +38,35 @@
 
 <item>
 <title>La Sexta</title>        
-<urlsolve>https://atresplayerp-i.akamaized.net/lasextampp/bitrate_4.m3u8</urlsolve>
+<urlsolve>http://s742319618.mialojamiento.es/cl3?vid=livepull1.secure.footprint.net/lasextampp/master.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/SEXTA.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Neox</title>        
-<urlsolve>https://atresplayerp-i.akamaized.net/geoneoxmpp/bitrate_4.m3u8</urlsolve>
+<urlsolve>http://s742319618.mialojamiento.es/cl3?vid=livepull1.secure.footprint.net/geoneoxmpp/master.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/NEOX.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Nova</title>        
-<urlsolve>https://atresplayerp-i.akamaized.net/novampp/bitrate_4.m3u8</urlsolve>
+<urlsolve>http://s742319618.mialojamiento.es/cl3?vid=livepull1.secure.footprint.net/geonovampp/master.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/NOVA.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>Mega</title>        
-<urlsolve>https://atresplayerp-i.akamaized.net/geomegampp/bitrate_4.m3u8</urlsolve>
+<urlsolve>http://s742319618.mialojamiento.es/cl3?vid=livepull1.secure.footprint.net/geomegampp/master.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/MEGA.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
 <item>
 <title>A3Series</title>        
-<urlsolve>https://atresplayers-i.akamaized.net/a3seriesmpp/bitrate_4.m3u8</urlsolve>
+<urlsolve>http://s742319618.mialojamiento.es/cl3?vid=livepull1.secure.footprint.net/geoa3seriesmpp/master.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/ATRESS.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
