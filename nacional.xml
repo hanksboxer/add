@@ -114,6 +114,13 @@
 </item>
 
 <item>
+<title>GOL</title>        
+<urlsolve>http://edge2.lacalleochotv.online/live/GOLTV_1/index.m3u8</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/GOL.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
 <title>Trece</title>        
 <urlsolve>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/13.png?resize=324%2C235</thumbnail>
