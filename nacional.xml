@@ -150,7 +150,7 @@
 
 <item>
 <title>Live tv</title>        
-<urlsolve>http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8</urlsolve>
+<urlsolve>http://178.132.6.97/A1MediaTV1/tracks-v1a1/index.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/lifetv.png?resize=324%2C235</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
