@@ -8,9 +8,9 @@
 </item>
 
 <item>
-<title>M-Acción</title>        
-<urlsolve>http://edge2.lacalleochotv.online/live/maccion_1/index.m3u8</urlsolve>
-<thumbnail>http://photocall.tv/images/CPACCI.png</thumbnail>
+<title>Nat Geo Wild</title>        
+<urlsolve>https://lhr-3.firstonetv.net:4434/hls/f9e57656ec3796c32cd0548195221dc8/1543635515/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135342e6d6264722e63662f7032702f31346238383335343466636435656164303962343261323963363936393032352e6d3375383f73743d79655a6e4f2d5836743545614e416b7a784451514b5126653d31353433363439393135.m3u8</urlsolve>
+<thumbnail>http://photocall.tv/images/NATGEO.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
