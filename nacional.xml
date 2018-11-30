@@ -17,7 +17,7 @@
 
 <item>
 <title>Antena 3</title>        
-<urlsolve>http://s742319618.mialojamiento.es/cl3?vid=livepull1.secure.footprint.net/antena3mpp/master.m3u8</urlsolve>
+<urlsolve>https://antena3-pull2b-a3player.secure.footprint.net/antena3/bitrate_3.m3u8</urlsolve>
 <thumbnail>http://photocall.tv/images/A3.png?resize=324%2C235</thumbnail>
 <fanart></fanart>
 </item>
